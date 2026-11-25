@@ -89,7 +89,8 @@ print("Compressed size :", compressed_bits, "bits")
 ## Output:
 
 ### Print the characters and its huffmancode
-<img width="288" height="238" alt="image" src="https://github.com/user-attachments/assets/35f47488-601f-4cfb-ba0b-d169f34bac22" />
+
+<img width="476" height="342" alt="image" src="https://github.com/user-attachments/assets/a280a0a6-2cfc-45dc-8136-50a829cd828d" />
 
 
 
